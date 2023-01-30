@@ -1,0 +1,61 @@
+#inicio{
+    font-size:30px;
+}
+#quienes-somos{
+    font-size:30px;
+}
+#menu-rebatible{
+    font-size:30px;
+}
+
+#WhatsApp{
+    color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+#WhatsApp:hover{
+color: aliceblue;
+cursor: pointer;
+}
+
+#Gmail{
+    color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+#Gmail:hover{
+    color: aliceblue;
+    cursor: pointer;
+    }
+#Instagram{
+        color: rgb(68, 68, 68);
+        text-decoration: none;
+    }
+    
+#Instagram:hover{
+    color: aliceblue;
+    cursor: pointer;
+    }
+    
+#Facebook{
+        color: rgb(68, 68, 68);
+        text-decoration: none;
+    }
+    
+#Facebook:hover{
+        color: aliceblue;
+        cursor: pointer;
+        }
+
+#logo-mail{
+    color:aliceblue;
+}
+#logo-wsp{
+    color:aliceblue; 
+}
+#logo-instagram{
+    color:aliceblue;
+}
+#logo-facebook{
+    color:aliceblue;
+}

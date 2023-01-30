@@ -1,0 +1,65 @@
+#fondo1{
+    background-image: url(https://scontent-eze1-1.xx.fbcdn.net/v/t39.30808-6/280274993_127453809892469_4864228402018258576_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=MJaTr7v4FowAX8XVxCB&_nc_ht=scontent-eze1-1.xx&oh=00_AfD6p0ZF9iZRfEVvhPx7JtzC_cF9G9MLI2MvSfQJnU0WvA&oe=63DC1489);
+    background-size: 50%;
+}
+#inicio{
+    font-size:30px;
+}
+#quienes-somos{
+    font-size:30px;
+}
+#menu-rebatible{
+    font-size:30px;
+}
+
+#WhatsApp{
+    color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+#WhatsApp:hover{
+color: aliceblue;
+cursor: pointer;
+}
+
+#Gmail{
+    color: rgb(68, 68, 68);
+    text-decoration: none;
+}
+
+#Gmail:hover{
+    color: aliceblue;
+    cursor: pointer;
+    }
+#Instagram{
+        color: rgb(68, 68, 68);
+        text-decoration: none;
+    }
+    
+#Instagram:hover{
+    color: aliceblue;
+    cursor: pointer;
+    }
+    
+#Facebook{
+        color: rgb(68, 68, 68);
+        text-decoration: none;
+    }
+    
+#Facebook:hover{
+        color: aliceblue;
+        cursor: pointer;
+        }
+
+#logo-mail{
+    color:aliceblue;
+}
+#logo-wsp{
+    color:aliceblue; 
+}
+#logo-instagram{
+    color:aliceblue;
+}
+#logo-facebook{
+    color:aliceblue;
+}
